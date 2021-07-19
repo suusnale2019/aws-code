@@ -3,6 +3,6 @@ customuser = "empadmin"
 custompass = "Empadmin%2021"
 customdb = "employee"
 custombucket = "employyebuk"
-customregion = "us-east-2"
+customregion = "us-east-2c"
 customtable = "employee"
 
