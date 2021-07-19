@@ -3,6 +3,6 @@ customuser = "dbadmin"
 custompass = "Baseball%2021"
 customdb = "employee"
 custombucket = "addeemployee"
-customregion = "US West (Oregon) us-west-2"
+customregion = "US east (Oregon) us-east-2"
 customtable = "employee"
 
