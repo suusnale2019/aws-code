@@ -1,8 +1,8 @@
-customhost = "employee.cnc8v934xnb0.us-west-2.rds.amazonaws.com"
-customuser = "dbadmin"
-custompass = "Baseball%2021"
+customhost = "empdb.czyfpglofrby.us-east-2.rds.amazonaws.com"
+customuser = "empadmin"
+custompass = "Empadmin%2021"
 customdb = "employee"
-custombucket = "addeemployee"
-customregion = "us-west-2c"
+custombucket = "employyebuk"
+customregion = "us-west-2"
 customtable = "employee"
 
